@@ -1,4 +1,5 @@
 ## Untung Store
+
 Aplikasi ini digunakan untuk membeli sebuah makanan dengan menerapkan MVC.
 
 ### SCOPE & FUNCTIONALITIES
@@ -31,3 +32,4 @@ class Payment
         }
     }
 ```
+> Untung Dwi Handoko 19.11.2820/IF04
